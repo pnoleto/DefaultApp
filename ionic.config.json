@@ -1,5 +1,7 @@
 {
-  "name": "DefaultApp",
-  "integrations": {},
+  "name": "SmartMarket",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
